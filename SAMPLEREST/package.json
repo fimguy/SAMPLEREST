@@ -1,9 +1,0 @@
-{
-  "name": "samplerest",
-  "version": "0.0.0",
-  "description": "SAMPLEREST",
-  "main": "server.js",
-  "author": {
-    "name": "davidste"
-  }
-}

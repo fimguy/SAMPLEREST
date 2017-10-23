@@ -1,0 +1,17 @@
+{
+  "name": "restsample",
+  "version": "0.0.0",
+  "description": "RESTSAMPLE",
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": {
+    "name": "davidste"
+  },
+  "dependencies": {
+    "json-server": "^0.12.0"
+  }
+}

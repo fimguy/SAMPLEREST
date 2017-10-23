@@ -1,0 +1,572 @@
+{
+    "EmployeeList": [
+      {
+        "EmployeeId": 1,
+        "Initials": "R.",
+        "FirstName": "John",
+        "MiddleName": "R",
+        "LastName": "Smith",
+        "DisplayName": "John",
+        "BirthDate": "\/Date(1391970600000+0530)\/",
+        "JoiningDate": null,
+        "ModifiedDate": null,
+        "Email": "",
+        "Gender": true,
+        "DepartmentId": "ABGgcx",
+        "CompanyCode": "52467",
+        "UserName": "4441",
+        "AddressList": [
+          
+        ],
+        "PhoneList": [
+          {
+            "EmployeeId": 0,
+            "Mobile": "85869",
+            "LandLine": ""
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "95690",
+            "LandLine": ""
+          }
+        ],
+        "OperationType": "Add"
+      },
+      {
+        "EmployeeId": 2,
+        "Initials": "R.        ",
+        "FirstName": "John",
+        "MiddleName": "R",
+        "LastName": "Smith",
+        "DisplayName": "John",
+        "BirthDate": "\/Date(1391970600000+0530)\/",
+        "JoiningDate": null,
+        "ModifiedDate": null,
+        "Email": "",
+        "Gender": true,
+        "DepartmentId": "0",
+        "CompanyCode": "52467",
+        "UserName": "4441",
+        "AddressList": [
+          
+        ],
+        "PhoneList": [
+          {
+            "EmployeeId": 0,
+            "Mobile": "85869",
+            "LandLine": ""
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "95690",
+            "LandLine": ""
+          }
+        ],
+        "OperationType": "Add"
+      },
+      {
+        "EmployeeId": 902,
+        "Initials": "Init902   ",
+        "FirstName": "FirstName902",
+        "MiddleName": "MiddleName902",
+        "LastName": "LastName902",
+        "DisplayName": "DisplayName902",
+        "BirthDate": "\/Date(1392212564037+0530)\/",
+        "JoiningDate": null,
+        "ModifiedDate": null,
+        "Email": "Test902@hcl.com",
+        "Gender": true,
+        "DepartmentId": "902",
+        "CompanyCode": "902",
+        "UserName": "",
+        "AddressList": [
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine1",
+            "AddressLine2": "AddressLine1",
+            "City": "City1",
+            "State": "State1",
+            "Country": "Country1",
+            "PostalCode": "47473"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine2",
+            "AddressLine2": "AddressLine2",
+            "City": "City2",
+            "State": "State2",
+            "Country": "Country2",
+            "PostalCode": "47474"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine3",
+            "AddressLine2": "AddressLine3",
+            "City": "City3",
+            "State": "State3",
+            "Country": "Country3",
+            "PostalCode": "47475"
+          }
+        ],
+        "PhoneList": [
+          {
+            "EmployeeId": 0,
+            "Mobile": "60747",
+            "LandLine": "44131"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60748",
+            "LandLine": "44132"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60749",
+            "LandLine": "44133"
+          }
+        ],
+        "OperationType": "Add"
+      },
+      {
+        "EmployeeId": 903,
+        "Initials": "Init903   ",
+        "FirstName": "FirstName903",
+        "MiddleName": "MiddleName903",
+        "LastName": "LastName903",
+        "DisplayName": "DisplayName903",
+        "BirthDate": "\/Date(1392212564037+0530)\/",
+        "JoiningDate": null,
+        "ModifiedDate": null,
+        "Email": "Test903@hcl.com",
+        "Gender": true,
+        "DepartmentId": "903",
+        "CompanyCode": "903",
+        "UserName": "",
+        "AddressList": [
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine1",
+            "AddressLine2": "AddressLine1",
+            "City": "City1",
+            "State": "State1",
+            "Country": "Country1",
+            "PostalCode": "47473"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine2",
+            "AddressLine2": "AddressLine2",
+            "City": "City2",
+            "State": "State2",
+            "Country": "Country2",
+            "PostalCode": "47474"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine3",
+            "AddressLine2": "AddressLine3",
+            "City": "City3",
+            "State": "State3",
+            "Country": "Country3",
+            "PostalCode": "47475"
+          }
+        ],
+        "PhoneList": [
+          {
+            "EmployeeId": 0,
+            "Mobile": "60747",
+            "LandLine": "44131"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60748",
+            "LandLine": "44132"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60749",
+            "LandLine": "44133"
+          }
+        ],
+        "OperationType": "Add"
+      },
+      {
+        "EmployeeId": 904,
+        "Initials": "Init904   ",
+        "FirstName": "FirstName904",
+        "MiddleName": "MiddleName904",
+        "LastName": "LastName904",
+        "DisplayName": "DisplayName904",
+        "BirthDate": "\/Date(1392212564040+0530)\/",
+        "JoiningDate": null,
+        "ModifiedDate": null,
+        "Email": "Test904@hcl.com",
+        "Gender": true,
+        "DepartmentId": "904",
+        "CompanyCode": "904",
+        "UserName": "",
+        "AddressList": [
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine1",
+            "AddressLine2": "AddressLine1",
+            "City": "City1",
+            "State": "State1",
+            "Country": "Country1",
+            "PostalCode": "47473"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine2",
+            "AddressLine2": "AddressLine2",
+            "City": "City2",
+            "State": "State2",
+            "Country": "Country2",
+            "PostalCode": "47474"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine3",
+            "AddressLine2": "AddressLine3",
+            "City": "City3",
+            "State": "State3",
+            "Country": "Country3",
+            "PostalCode": "47475"
+          }
+        ],
+        "PhoneList": [
+          {
+            "EmployeeId": 0,
+            "Mobile": "60747",
+            "LandLine": "44131"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60748",
+            "LandLine": "44132"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60749",
+            "LandLine": "44133"
+          }
+        ],
+        "OperationType": "Add"
+      },
+      {
+        "EmployeeId": 905,
+        "Initials": "Init905   ",
+        "FirstName": "FirstName905",
+        "MiddleName": "MiddleName905",
+        "LastName": "LastName905",
+        "DisplayName": "DisplayName905",
+        "BirthDate": "\/Date(1392212564040+0530)\/",
+        "JoiningDate": null,
+        "ModifiedDate": null,
+        "Email": "Test905@hcl.com",
+        "Gender": true,
+        "DepartmentId": "905",
+        "CompanyCode": "905",
+        "UserName": "",
+        "AddressList": [
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine1",
+            "AddressLine2": "AddressLine1",
+            "City": "City1",
+            "State": "State1",
+            "Country": "Country1",
+            "PostalCode": "47473"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine2",
+            "AddressLine2": "AddressLine2",
+            "City": "City2",
+            "State": "State2",
+            "Country": "Country2",
+            "PostalCode": "47474"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine3",
+            "AddressLine2": "AddressLine3",
+            "City": "City3",
+            "State": "State3",
+            "Country": "Country3",
+            "PostalCode": "47475"
+          }
+        ],
+        "PhoneList": [
+          {
+            "EmployeeId": 0,
+            "Mobile": "60747",
+            "LandLine": "44131"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60748",
+            "LandLine": "44132"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60749",
+            "LandLine": "44133"
+          }
+        ],
+        "OperationType": "Add"
+      },
+      {
+        "EmployeeId": 906,
+        "Initials": "Init906   ",
+        "FirstName": "FirstName906",
+        "MiddleName": "MiddleName906",
+        "LastName": "LastName906",
+        "DisplayName": "DisplayName906",
+        "BirthDate": "\/Date(1392212564040+0530)\/",
+        "JoiningDate": null,
+        "ModifiedDate": null,
+        "Email": "Test906@hcl.com",
+        "Gender": true,
+        "DepartmentId": "906",
+        "CompanyCode": "906",
+        "UserName": "",
+        "AddressList": [
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine1",
+            "AddressLine2": "AddressLine1",
+            "City": "City1",
+            "State": "State1",
+            "Country": "Country1",
+            "PostalCode": "47473"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine2",
+            "AddressLine2": "AddressLine2",
+            "City": "City2",
+            "State": "State2",
+            "Country": "Country2",
+            "PostalCode": "47474"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine3",
+            "AddressLine2": "AddressLine3",
+            "City": "City3",
+            "State": "State3",
+            "Country": "Country3",
+            "PostalCode": "47475"
+          }
+        ],
+        "PhoneList": [
+          {
+            "EmployeeId": 0,
+            "Mobile": "60747",
+            "LandLine": "44131"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60748",
+            "LandLine": "44132"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60749",
+            "LandLine": "44133"
+          }
+        ],
+        "OperationType": "Add"
+      },
+      {
+        "EmployeeId": 907,
+        "Initials": "Init907   ",
+        "FirstName": "FirstName907",
+        "MiddleName": "MiddleName907",
+        "LastName": "LastName907",
+        "DisplayName": "DisplayName907",
+        "BirthDate": "\/Date(1392212564043+0530)\/",
+        "JoiningDate": null,
+        "ModifiedDate": null,
+        "Email": "Test907@hcl.com",
+        "Gender": true,
+        "DepartmentId": "907",
+        "CompanyCode": "907",
+        "UserName": "",
+        "AddressList": [
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine1",
+            "AddressLine2": "AddressLine1",
+            "City": "City1",
+            "State": "State1",
+            "Country": "Country1",
+            "PostalCode": "47473"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine2",
+            "AddressLine2": "AddressLine2",
+            "City": "City2",
+            "State": "State2",
+            "Country": "Country2",
+            "PostalCode": "47474"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine3",
+            "AddressLine2": "AddressLine3",
+            "City": "City3",
+            "State": "State3",
+            "Country": "Country3",
+            "PostalCode": "47475"
+          }
+        ],
+        "PhoneList": [
+          {
+            "EmployeeId": 0,
+            "Mobile": "60747",
+            "LandLine": "44131"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60748",
+            "LandLine": "44132"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60749",
+            "LandLine": "44133"
+          }
+        ],
+        "OperationType": "Add"
+      },
+      {
+        "EmployeeId": 908,
+        "Initials": "Init908   ",
+        "FirstName": "FirstName908",
+        "MiddleName": "MiddleName908",
+        "LastName": "LastName908",
+        "DisplayName": "DisplayName908",
+        "BirthDate": "\/Date(1392212564043+0530)\/",
+        "JoiningDate": null,
+        "ModifiedDate": null,
+        "Email": "Test908@hcl.com",
+        "Gender": true,
+        "DepartmentId": "908",
+        "CompanyCode": "908",
+        "UserName": "",
+        "AddressList": [
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine1",
+            "AddressLine2": "AddressLine1",
+            "City": "City1",
+            "State": "State1",
+            "Country": "Country1",
+            "PostalCode": "47473"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine2",
+            "AddressLine2": "AddressLine2",
+            "City": "City2",
+            "State": "State2",
+            "Country": "Country2",
+            "PostalCode": "47474"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine3",
+            "AddressLine2": "AddressLine3",
+            "City": "City3",
+            "State": "State3",
+            "Country": "Country3",
+            "PostalCode": "47475"
+          }
+        ],
+        "PhoneList": [
+          {
+            "EmployeeId": 0,
+            "Mobile": "60747",
+            "LandLine": "44131"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60748",
+            "LandLine": "44132"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60749",
+            "LandLine": "44133"
+          }
+        ],
+        "OperationType": "Add"
+      },
+      {
+        "EmployeeId": 909,
+        "Initials": "Init909   ",
+        "FirstName": "FirstName909",
+        "MiddleName": "MiddleName909",
+        "LastName": "LastName909",
+        "DisplayName": "DisplayName909",
+        "BirthDate": "\/Date(1392212564047+0530)\/",
+        "JoiningDate": null,
+        "ModifiedDate": null,
+        "Email": "Test909@hcl.com",
+        "Gender": true,
+        "DepartmentId": "909",
+        "CompanyCode": "909",
+        "UserName": "",
+        "AddressList": [
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine1",
+            "AddressLine2": "AddressLine1",
+            "City": "City1",
+            "State": "State1",
+            "Country": "Country1",
+            "PostalCode": "47473"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine2",
+            "AddressLine2": "AddressLine2",
+            "City": "City2",
+            "State": "State2",
+            "Country": "Country2",
+            "PostalCode": "47474"
+          },
+          {
+            "EmployeeId": 0,
+            "AddressLine1": "AddressLine3",
+            "AddressLine2": "AddressLine3",
+            "City": "City3",
+            "State": "State3",
+            "Country": "Country3",
+            "PostalCode": "47475"
+          }
+        ],
+        "PhoneList": [
+          {
+            "EmployeeId": 0,
+            "Mobile": "60747",
+            "LandLine": "44131"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60748",
+            "LandLine": "44132"
+          },
+          {
+            "EmployeeId": 0,
+            "Mobile": "60749",
+            "LandLine": "44133"
+          }
+        ],
+        "OperationType": "Add"
+      }
+    ]
+  }
