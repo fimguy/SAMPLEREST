@@ -4,7 +4,7 @@
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
     <Name>RESTSAMPLE</Name>
     <RootNamespace>RESTSAMPLE</RootNamespace>
-    <NameOfLastUsedPublishProfile>SAMPLEREST20171023075848 - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>RESTSAMPLE20171025092304 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -31,17 +31,11 @@
   <ItemGroup>
     <Compile Include="server.js" />
     <Content Include="db.json" />
-    <None Include="SAMPLEREST20171023075848 - Web Deploy.pubxml" />
-    <Content Include="public\index.html">
-      <SubType>Code</SubType>
-    </Content>
+    <None Include="RESTSAMPLE20171025092304 - Web Deploy.pubxml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config" />
     <Content Include="package.json" />
     <Content Include="README.md" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="public\" />
   </ItemGroup>
   <!-- Do not delete the following Import Project.  While this appears to do nothing it is a marker for setting TypeScript properties before our import that depends on them. -->
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="False" />
