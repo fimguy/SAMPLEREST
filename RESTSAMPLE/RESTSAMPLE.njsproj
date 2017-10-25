@@ -31,7 +31,6 @@
   <ItemGroup>
     <Compile Include="server.js" />
     <Content Include="db.json" />
-    <None Include="RESTSAMPLE20171025092304 - Web Deploy.pubxml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config" />
     <Content Include="package.json" />
